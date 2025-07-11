@@ -6,7 +6,7 @@
 
 
 
- I'm **Rishi Soni**, a Senior Associate Engineer 👨‍💻 [![Experience](https://img.shields.io/badge/Experience-5%20years%204%20months-orange)](https://github.com/rishisoni90).
+ I'm **Rishi Soni**, a Senior Associate Engineer 👨‍💻 [![Experience](https://img.shields.io/badge/Experience-5%20years%204%20months-orange)](https://github.com/rsoni1049).
 
 
 ## About Me 
@@ -79,7 +79,7 @@ Read: Involves retrieving or reading existing records from the database. For exa
 Update: Involves modifying existing records in the database. For example, updating the email address of a customer in the database.
 Delete: Involves removing existing records from the database. For example, deleting a customer record from the database.
       <br>
-      <a href="https://github.com/rishisoni90/project1">git@github.com:rishisoni90/FullStack-Angular-SpringBoot-.git</a>
+      <a href="https://github.com/rsoni1049/project1">git@github.com:rsoni1049/FullStack-Angular-SpringBoot-.git</a>
     </td>
   </tr>
     <tr>
@@ -102,11 +102,11 @@ Thanks for stopping by! Let's build something awesome together! 🚀
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishisoni90&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rishisoni90&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rsoni1049&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rsoni1049&theme=blueberry&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rishisoni90&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rsoni1049&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
@@ -114,7 +114,7 @@ Thanks for stopping by! Let's build something awesome together! 🚀
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rishisoni90&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rsoni1049&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
   
